@@ -1,0 +1,16 @@
+# Privately maintained adlist
+
+## LG TV ads
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
+us-ad-lgsmartad-com.aws-prd.net
+rdvs.alljoyn.org
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+recommend.lgtvcommon.com
+lgsmartad.com
